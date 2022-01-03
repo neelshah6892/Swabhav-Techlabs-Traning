@@ -1,0 +1,14 @@
+D:\Swabhav\OOP\MannerEmotionApp\bin\Debug\MannerEmotionApp.exe.config
+D:\Swabhav\OOP\MannerEmotionApp\bin\Debug\MannerEmotionApp.exe
+D:\Swabhav\OOP\MannerEmotionApp\bin\Debug\MannerEmotionApp.pdb
+D:\Swabhav\OOP\MannerEmotionApp\obj\Debug\MannerEmotionApp.csprojAssemblyReference.cache
+D:\Swabhav\OOP\MannerEmotionApp\obj\Debug\MannerEmotionApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\MannerEmotionApp\obj\Debug\MannerEmotionApp.exe
+D:\Swabhav\OOP\MannerEmotionApp\obj\Debug\MannerEmotionApp.pdb
+C:\Users\Administrator\Downloads\MannerEmotionApp-20210505T054037Z-001\MannerEmotionApp\bin\Debug\MannerEmotionApp.exe.config
+C:\Users\Administrator\Downloads\MannerEmotionApp-20210505T054037Z-001\MannerEmotionApp\bin\Debug\MannerEmotionApp.exe
+C:\Users\Administrator\Downloads\MannerEmotionApp-20210505T054037Z-001\MannerEmotionApp\bin\Debug\MannerEmotionApp.pdb
+C:\Users\Administrator\Downloads\MannerEmotionApp-20210505T054037Z-001\MannerEmotionApp\obj\Debug\MannerEmotionApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\MannerEmotionApp-20210505T054037Z-001\MannerEmotionApp\obj\Debug\MannerEmotionApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\MannerEmotionApp-20210505T054037Z-001\MannerEmotionApp\obj\Debug\MannerEmotionApp.exe
+C:\Users\Administrator\Downloads\MannerEmotionApp-20210505T054037Z-001\MannerEmotionApp\obj\Debug\MannerEmotionApp.pdb

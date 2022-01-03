@@ -1,0 +1,6 @@
+ID	Name				Price	Discount	Final Price
+1	Mobile				50000	10%	45000
+2	Laptop				80000	20%	64000
+3	Charger				1000	10%	900
+4	Headphones				500	5%	475
+5	Portable Charger				3000	50%	1500

@@ -1,0 +1,14 @@
+D:\Swabhav\OOP\ExceptionStackApp\bin\Debug\ExceptionStackApp.exe.config
+D:\Swabhav\OOP\ExceptionStackApp\bin\Debug\ExceptionStackApp.exe
+D:\Swabhav\OOP\ExceptionStackApp\bin\Debug\ExceptionStackApp.pdb
+D:\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.csprojAssemblyReference.cache
+D:\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.exe
+D:\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.pdb
+C:\Users\Administrator\Downloads\Swabhav-20210611T040832Z-001\Swabhav\OOP\ExceptionStackApp\bin\Debug\ExceptionStackApp.exe.config
+C:\Users\Administrator\Downloads\Swabhav-20210611T040832Z-001\Swabhav\OOP\ExceptionStackApp\bin\Debug\ExceptionStackApp.exe
+C:\Users\Administrator\Downloads\Swabhav-20210611T040832Z-001\Swabhav\OOP\ExceptionStackApp\bin\Debug\ExceptionStackApp.pdb
+C:\Users\Administrator\Downloads\Swabhav-20210611T040832Z-001\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Swabhav-20210611T040832Z-001\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Swabhav-20210611T040832Z-001\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.exe
+C:\Users\Administrator\Downloads\Swabhav-20210611T040832Z-001\Swabhav\OOP\ExceptionStackApp\obj\Debug\ExceptionStackApp.pdb

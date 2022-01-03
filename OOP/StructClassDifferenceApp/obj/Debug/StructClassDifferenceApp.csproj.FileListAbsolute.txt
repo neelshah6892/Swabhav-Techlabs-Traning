@@ -1,0 +1,7 @@
+D:\StructClassDifferenceApp\obj\Debug\StructClassDifferenceApp.csproj.AssemblyReference.cache
+D:\StructClassDifferenceApp\obj\Debug\StructClassDifferenceApp.csproj.CoreCompileInputs.cache
+D:\StructClassDifferenceApp\bin\Debug\StructClassDifferenceApp.exe.config
+D:\StructClassDifferenceApp\bin\Debug\StructClassDifferenceApp.exe
+D:\StructClassDifferenceApp\bin\Debug\StructClassDifferenceApp.pdb
+D:\StructClassDifferenceApp\obj\Debug\StructClassDifferenceApp.exe
+D:\StructClassDifferenceApp\obj\Debug\StructClassDifferenceApp.pdb

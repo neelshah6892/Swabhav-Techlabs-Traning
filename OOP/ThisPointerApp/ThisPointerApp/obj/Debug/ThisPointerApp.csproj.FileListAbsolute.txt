@@ -1,0 +1,7 @@
+D:\Swabhav\ThisPointerApp\ThisPointerApp\bin\Debug\ThisPointerApp.exe.config
+D:\Swabhav\ThisPointerApp\ThisPointerApp\bin\Debug\ThisPointerApp.exe
+D:\Swabhav\ThisPointerApp\ThisPointerApp\bin\Debug\ThisPointerApp.pdb
+D:\Swabhav\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.csprojAssemblyReference.cache
+D:\Swabhav\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.exe
+D:\Swabhav\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.pdb

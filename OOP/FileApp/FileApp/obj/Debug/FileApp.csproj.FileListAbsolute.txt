@@ -1,0 +1,7 @@
+D:\Swabhav\FileApp\FileApp\bin\Debug\FileApp.exe.config
+D:\Swabhav\FileApp\FileApp\bin\Debug\FileApp.exe
+D:\Swabhav\FileApp\FileApp\bin\Debug\FileApp.pdb
+D:\Swabhav\FileApp\FileApp\obj\Debug\FileApp.csprojAssemblyReference.cache
+D:\Swabhav\FileApp\FileApp\obj\Debug\FileApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\FileApp\FileApp\obj\Debug\FileApp.exe
+D:\Swabhav\FileApp\FileApp\obj\Debug\FileApp.pdb

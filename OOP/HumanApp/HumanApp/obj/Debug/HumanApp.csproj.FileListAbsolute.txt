@@ -1,0 +1,7 @@
+D:\Swabhav\HumanApp\HumanApp\bin\Debug\HumanApp.exe.config
+D:\Swabhav\HumanApp\HumanApp\bin\Debug\HumanApp.exe
+D:\Swabhav\HumanApp\HumanApp\bin\Debug\HumanApp.pdb
+D:\Swabhav\HumanApp\HumanApp\obj\Debug\HumanApp.csprojAssemblyReference.cache
+D:\Swabhav\HumanApp\HumanApp\obj\Debug\HumanApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\HumanApp\HumanApp\obj\Debug\HumanApp.exe
+D:\Swabhav\HumanApp\HumanApp\obj\Debug\HumanApp.pdb

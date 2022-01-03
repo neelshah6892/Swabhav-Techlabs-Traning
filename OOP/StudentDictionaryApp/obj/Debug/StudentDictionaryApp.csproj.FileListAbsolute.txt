@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\StudentDictionaryApp\bin\Debug\StudentDictionaryApp.exe.config
+D:\Swabhav\OOP\StudentDictionaryApp\bin\Debug\StudentDictionaryApp.exe
+D:\Swabhav\OOP\StudentDictionaryApp\bin\Debug\StudentDictionaryApp.pdb
+D:\Swabhav\OOP\StudentDictionaryApp\obj\Debug\StudentDictionaryApp.csproj.AssemblyReference.cache
+D:\Swabhav\OOP\StudentDictionaryApp\obj\Debug\StudentDictionaryApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\StudentDictionaryApp\obj\Debug\StudentDictionaryApp.exe
+D:\Swabhav\OOP\StudentDictionaryApp\obj\Debug\StudentDictionaryApp.pdb

@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\StudentHashsetApp\bin\Debug\StudentHashsetApp.exe.config
+D:\Swabhav\OOP\StudentHashsetApp\bin\Debug\StudentHashsetApp.exe
+D:\Swabhav\OOP\StudentHashsetApp\bin\Debug\StudentHashsetApp.pdb
+D:\Swabhav\OOP\StudentHashsetApp\obj\Debug\StudentHashsetApp.csproj.AssemblyReference.cache
+D:\Swabhav\OOP\StudentHashsetApp\obj\Debug\StudentHashsetApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\StudentHashsetApp\obj\Debug\StudentHashsetApp.exe
+D:\Swabhav\OOP\StudentHashsetApp\obj\Debug\StudentHashsetApp.pdb

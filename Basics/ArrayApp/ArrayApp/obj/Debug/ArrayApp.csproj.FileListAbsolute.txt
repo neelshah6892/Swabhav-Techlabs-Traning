@@ -1,0 +1,7 @@
+D:\Swabhav\Basics\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe.config
+D:\Swabhav\Basics\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe
+D:\Swabhav\Basics\ArrayApp\ArrayApp\bin\Debug\ArrayApp.pdb
+D:\Swabhav\Basics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\Basics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.exe
+D:\Swabhav\Basics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.pdb
+D:\Swabhav\Basics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csprojAssemblyReference.cache

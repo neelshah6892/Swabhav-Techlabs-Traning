@@ -1,0 +1,7 @@
+D:\Swabhav\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+D:\Swabhav\DictionaryApp\bin\Debug\DictionaryApp.exe
+D:\Swabhav\DictionaryApp\bin\Debug\DictionaryApp.pdb
+D:\Swabhav\DictionaryApp\obj\Debug\DictionaryApp.csproj.AssemblyReference.cache
+D:\Swabhav\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\DictionaryApp\obj\Debug\DictionaryApp.exe
+D:\Swabhav\DictionaryApp\obj\Debug\DictionaryApp.pdb

@@ -1,0 +1,14 @@
+D:\Swabhav\OOP\SetOperationApp\bin\Debug\SetOperationApp.exe.config
+D:\Swabhav\OOP\SetOperationApp\bin\Debug\SetOperationApp.exe
+D:\Swabhav\OOP\SetOperationApp\bin\Debug\SetOperationApp.pdb
+D:\Swabhav\OOP\SetOperationApp\obj\Debug\SetOperationApp.csproj.AssemblyReference.cache
+D:\Swabhav\OOP\SetOperationApp\obj\Debug\SetOperationApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\SetOperationApp\obj\Debug\SetOperationApp.exe
+D:\Swabhav\OOP\SetOperationApp\obj\Debug\SetOperationApp.pdb
+C:\Users\Administrator\Downloads\SetOperationApp-20210609T053712Z-001\SetOperationApp\bin\Debug\SetOperationApp.exe.config
+C:\Users\Administrator\Downloads\SetOperationApp-20210609T053712Z-001\SetOperationApp\bin\Debug\SetOperationApp.exe
+C:\Users\Administrator\Downloads\SetOperationApp-20210609T053712Z-001\SetOperationApp\bin\Debug\SetOperationApp.pdb
+C:\Users\Administrator\Downloads\SetOperationApp-20210609T053712Z-001\SetOperationApp\obj\Debug\SetOperationApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\SetOperationApp-20210609T053712Z-001\SetOperationApp\obj\Debug\SetOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\SetOperationApp-20210609T053712Z-001\SetOperationApp\obj\Debug\SetOperationApp.exe
+C:\Users\Administrator\Downloads\SetOperationApp-20210609T053712Z-001\SetOperationApp\obj\Debug\SetOperationApp.pdb

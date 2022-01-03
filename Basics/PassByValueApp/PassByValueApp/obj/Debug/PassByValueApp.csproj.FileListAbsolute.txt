@@ -1,0 +1,7 @@
+D:\Swabhav\Basics\PassByValueApp\PassByValueApp\bin\Debug\PassByValueApp.exe.config
+D:\Swabhav\Basics\PassByValueApp\PassByValueApp\bin\Debug\PassByValueApp.exe
+D:\Swabhav\Basics\PassByValueApp\PassByValueApp\bin\Debug\PassByValueApp.pdb
+D:\Swabhav\Basics\PassByValueApp\PassByValueApp\obj\Debug\PassByValueApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\Basics\PassByValueApp\PassByValueApp\obj\Debug\PassByValueApp.exe
+D:\Swabhav\Basics\PassByValueApp\PassByValueApp\obj\Debug\PassByValueApp.pdb
+D:\Swabhav\Basics\PassByValueApp\PassByValueApp\obj\Debug\PassByValueApp.csprojAssemblyReference.cache

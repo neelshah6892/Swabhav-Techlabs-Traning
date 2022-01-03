@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\StudentPropertyApp\StudentPropertyApp\bin\Debug\StudentPropertyApp.exe.config
+D:\Swabhav\OOP\StudentPropertyApp\StudentPropertyApp\bin\Debug\StudentPropertyApp.exe
+D:\Swabhav\OOP\StudentPropertyApp\StudentPropertyApp\bin\Debug\StudentPropertyApp.pdb
+D:\Swabhav\OOP\StudentPropertyApp\StudentPropertyApp\obj\Debug\StudentPropertyApp.csprojAssemblyReference.cache
+D:\Swabhav\OOP\StudentPropertyApp\StudentPropertyApp\obj\Debug\StudentPropertyApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\StudentPropertyApp\StudentPropertyApp\obj\Debug\StudentPropertyApp.exe
+D:\Swabhav\OOP\StudentPropertyApp\StudentPropertyApp\obj\Debug\StudentPropertyApp.pdb

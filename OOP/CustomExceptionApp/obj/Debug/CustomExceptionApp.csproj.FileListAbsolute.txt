@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\CustomExceptionApp\obj\Debug\CustomExceptionApp.csprojAssemblyReference.cache
+D:\Swabhav\OOP\CustomExceptionApp\obj\Debug\CustomExceptionApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\CustomExceptionApp\bin\Debug\CustomExceptionApp.exe.config
+D:\Swabhav\OOP\CustomExceptionApp\bin\Debug\CustomExceptionApp.exe
+D:\Swabhav\OOP\CustomExceptionApp\bin\Debug\CustomExceptionApp.pdb
+D:\Swabhav\OOP\CustomExceptionApp\obj\Debug\CustomExceptionApp.exe
+D:\Swabhav\OOP\CustomExceptionApp\obj\Debug\CustomExceptionApp.pdb

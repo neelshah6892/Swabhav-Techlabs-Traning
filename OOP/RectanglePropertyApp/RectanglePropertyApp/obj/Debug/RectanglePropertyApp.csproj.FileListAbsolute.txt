@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\RectanglePropertyApp\RectanglePropertyApp\bin\Debug\RectanglePropertyApp.exe.config
+D:\Swabhav\OOP\RectanglePropertyApp\RectanglePropertyApp\bin\Debug\RectanglePropertyApp.exe
+D:\Swabhav\OOP\RectanglePropertyApp\RectanglePropertyApp\bin\Debug\RectanglePropertyApp.pdb
+D:\Swabhav\OOP\RectanglePropertyApp\RectanglePropertyApp\obj\Debug\RectanglePropertyApp.csprojAssemblyReference.cache
+D:\Swabhav\OOP\RectanglePropertyApp\RectanglePropertyApp\obj\Debug\RectanglePropertyApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\RectanglePropertyApp\RectanglePropertyApp\obj\Debug\RectanglePropertyApp.exe
+D:\Swabhav\OOP\RectanglePropertyApp\RectanglePropertyApp\obj\Debug\RectanglePropertyApp.pdb

@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe.config
+D:\Swabhav\OOP\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe
+D:\Swabhav\OOP\RectangleApp\RectangleApp\bin\Debug\RectangleApp.pdb
+D:\Swabhav\OOP\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csprojAssemblyReference.cache
+D:\Swabhav\OOP\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\RectangleApp\RectangleApp\obj\Debug\RectangleApp.exe
+D:\Swabhav\OOP\RectangleApp\RectangleApp\obj\Debug\RectangleApp.pdb

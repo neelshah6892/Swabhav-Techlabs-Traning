@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\ExceptionGenerationApp\bin\Debug\ExceptionGenerationApp.exe.config
+D:\Swabhav\OOP\ExceptionGenerationApp\bin\Debug\ExceptionGenerationApp.exe
+D:\Swabhav\OOP\ExceptionGenerationApp\bin\Debug\ExceptionGenerationApp.pdb
+D:\Swabhav\OOP\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.csprojAssemblyReference.cache
+D:\Swabhav\OOP\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.exe
+D:\Swabhav\OOP\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.pdb

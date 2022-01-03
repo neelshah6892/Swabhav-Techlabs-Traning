@@ -1,0 +1,7 @@
+D:\Swabhav\Basics\WelcomeArgsApp\WelcomeArgsApp\bin\Debug\WelcomeArgsApp.exe.config
+D:\Swabhav\Basics\WelcomeArgsApp\WelcomeArgsApp\bin\Debug\WelcomeArgsApp.exe
+D:\Swabhav\Basics\WelcomeArgsApp\WelcomeArgsApp\bin\Debug\WelcomeArgsApp.pdb
+D:\Swabhav\Basics\WelcomeArgsApp\WelcomeArgsApp\obj\Debug\WelcomeArgsApp.csprojAssemblyReference.cache
+D:\Swabhav\Basics\WelcomeArgsApp\WelcomeArgsApp\obj\Debug\WelcomeArgsApp.csproj.CoreCompileInputs.cache
+D:\Swabhav\Basics\WelcomeArgsApp\WelcomeArgsApp\obj\Debug\WelcomeArgsApp.exe
+D:\Swabhav\Basics\WelcomeArgsApp\WelcomeArgsApp\obj\Debug\WelcomeArgsApp.pdb

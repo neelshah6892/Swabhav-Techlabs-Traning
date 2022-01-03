@@ -1,0 +1,7 @@
+D:\Swabhav\OOP\ShapeInheritence\ShapeInheritence\obj\Debug\ShapeInheritence.csprojAssemblyReference.cache
+D:\Swabhav\OOP\ShapeInheritence\ShapeInheritence\obj\Debug\ShapeInheritence.csproj.CoreCompileInputs.cache
+D:\Swabhav\OOP\ShapeInheritence\ShapeInheritence\bin\Debug\ShapeInheritence.exe.config
+D:\Swabhav\OOP\ShapeInheritence\ShapeInheritence\bin\Debug\ShapeInheritence.exe
+D:\Swabhav\OOP\ShapeInheritence\ShapeInheritence\bin\Debug\ShapeInheritence.pdb
+D:\Swabhav\OOP\ShapeInheritence\ShapeInheritence\obj\Debug\ShapeInheritence.exe
+D:\Swabhav\OOP\ShapeInheritence\ShapeInheritence\obj\Debug\ShapeInheritence.pdb

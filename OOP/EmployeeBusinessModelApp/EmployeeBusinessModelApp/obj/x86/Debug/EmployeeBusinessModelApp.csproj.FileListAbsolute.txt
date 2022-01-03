@@ -1,0 +1,5 @@
+D:\EmployeeBusinessModelApp\EmployeeBusinessModelApp\bin\Debug\EmployeeBusinessModelApp.exe
+D:\EmployeeBusinessModelApp\EmployeeBusinessModelApp\bin\Debug\EmployeeBusinessModelApp.pdb
+D:\EmployeeBusinessModelApp\EmployeeBusinessModelApp\obj\x86\Debug\EmployeeBusinessModelApp.exe
+D:\EmployeeBusinessModelApp\EmployeeBusinessModelApp\obj\x86\Debug\EmployeeBusinessModelApp.pdb
+D:\EmployeeBusinessModelApp\EmployeeBusinessModelApp\obj\x86\Debug\EmployeeBusinessModelApp.csprojResolveAssemblyReference.cache
